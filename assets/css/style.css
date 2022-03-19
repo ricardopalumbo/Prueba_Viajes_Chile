@@ -1,0 +1,48 @@
+
+body {
+    background-color: #000;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+}
+
+/* Menu de navegacion */
+
+.navbar img {
+    width: 20pt;
+    height: 20pt;
+    margin-left: 5pt;
+    margin-right: 5pt;
+}
+
+/* Seccion Quienes Somos */
+
+#quienes .card {
+    font-weight: lighter;
+    border-width: 0;
+}
+
+#quienes .card-body {
+    background-color: #000;
+    padding-left: 0;
+}
+#quienes .card-text {
+    text-align: left;
+}
+
+/* Seccion Destacados */
+
+#destacados .card {
+    font-weight: lighter;
+}
+
+#destacados .card img {
+    height: 200px;
+}
+
+/* Footer */
+
+#footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
